@@ -7,4 +7,8 @@ dotnet dev-certs https
 dotnet dev-certs https --trust
 ```
 
-[Referenced GitHub issue from dotnet/runtime](https://github.com/dotnet/runtime/issues/27132)
+This appears to be an issue with certificates on macOS Catalina
+
+### Related Github Issues
+[From dotnet/runtime](https://github.com/dotnet/runtime/issues/27132)
+[From dotnet/aspnetcore](https://github.com/dotnet/aspnetcore/issues/18236#issuecomment-573855891)
