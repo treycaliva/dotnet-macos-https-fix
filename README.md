@@ -7,4 +7,4 @@ dotnet dev-certs https
 dotnet dev-certs https --trust
 ```
 
-[Referenced GitHub issue from dotnet/runtime](https://github.com/dotnet/runtime/issues/27132){:target="_blank"}
+[Referenced GitHub issue from dotnet/runtime](https://github.com/dotnet/runtime/issues/27132)
